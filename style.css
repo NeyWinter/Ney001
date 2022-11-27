@@ -1,0 +1,166 @@
+
+body{
+	margin-left: 1.5em;
+	background-image: url(./img/b2.jpg);
+	background-size: ;
+	color: white;
+	background-color: blac;
+
+}
+header{
+	background-color: #65a468;
+	color: black;
+	margin-right: 2%;
+	border-top-style: solid;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	border-color: blue;
+	border-top-width: 3px;  
+	padding-bottom: 0.1px;
+	font-family: "Times New Roman", serif;
+	text-decoration:underline; 
+
+}
+main{
+	
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+#div1{
+	overflow: hidden;
+}
+#div1 div {
+	 float:left; 
+}
+nav{
+	height: 5em;
+	background-color: #7099f1;
+	background-size: contain;
+	margin-right: 1.5em;
+	border: solid blue;
+	margin-bottom: 1em;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px
+}
+article{
+	font-size:;
+	background-color: #52527a;
+	min-height: 80em;
+	padding-top: 0.1px;
+
+}
+aside{
+	font-size: 1em;
+	background-color: #5c5c8a;
+	min-height: 80em;
+	margin-right: 0.5em;
+	text-align: center;
+	padding-top: 0.1px;
+}
+small{
+	text-align: center;
+}
+figure{
+	text-align: center;
+	background-color: 
+}
+
+#aside{
+	width: 29%;
+}
+#article{
+	width: 69%;
+}
+.nav{
+	width: 19%;
+	height: 60%;
+}
+#first{
+	margin-left: 1.5%;
+}
+img{
+	width: 3em;
+}
+#p1{
+	font-size: 0.1em;
+}
+#form{
+	text-align: center;
+	margin-left: 18em;
+	background-color: #b3d1ff;
+	border-radius: 0px;
+	cursor:context-menu ;
+	max-width: 30em
+}
+#search{
+	background-color:#7099f1;
+	border-style: none;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: cyan;
+}
+a:active{
+	color: red;
+	cursor: wait;
+}
+button:hover{
+	background-color: #b3d1ff;
+}
+button:active  {
+	background-color:#5c5c8a ;
+}
+button{
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	cursor: pointer;
+}
+.main{
+	font-size: 2em;
+}
+footer{
+	background-color: #a18080;
+	text-align: center;
+	border-bottom-style: solid;
+	border-bottom-color: red;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius:20px;
+	padding-top: 0.1px;
+	margin-top: 0.1px;
+	margin-right: 2%;
+}
+input[type=submit] , input[type=reset] , select , input[type=radio] , input[type=checkbox] {
+	cursor: pointer;
+}
+img{
+	cursor:zoom-in;
+}
+p{
+	text-align: justify;
+	text-transform: unset;
+	padding: 1em;
+}
+h1 ,h2{
+	font-size: 2em;
+	text-decoration: black;
+}
+.logo{
+	width: 3em;
+	height: 3em;
+	margin-right: 3em;
+	cursor: pointer;
+}
+.logo:active{
+	cursor: wait;
+}
+.profil{
+	border-radius: 500px;
+	width: 15em;
+	height: 15em;
+}
